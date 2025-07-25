@@ -1,3 +1,12 @@
+
+# Move In
+
+This repository contains basic **Bash profiles**:
+
+- Contains rc, profile files for Bash 
+
+---
+
 # Useful Python
 
 This repository contains basic Python functions for interacting with **Boto3** and **requests**:
@@ -7,8 +16,4 @@ This repository contains basic Python functions for interacting with **Boto3** a
 
 ---
 
-# Move In
-
-This repository contains basic **Bash profiles**:
-- Contains rc, profile files for Bash 
 
