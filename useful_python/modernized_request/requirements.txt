@@ -1,2 +1,0 @@
-# install requests if not present
-requests
